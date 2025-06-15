@@ -1,0 +1,21 @@
+{
+	"name": "mars route",
+	"short_name": "mars route",
+	"description": "",
+	"start_url": "index.html",
+	"display": "fullscreen",
+	"orientation": "landscape",
+	"background_color": "#bcb8b8",
+	"icons": [
+		{
+			"src": "icons/icon-16.png",
+			"sizes": "80x80",
+			"type": "image/png"
+		},
+		{
+			"src": "icons/icon-512.png",
+			"sizes": "590x300",
+			"type": "image/png"
+		}
+	]
+}
